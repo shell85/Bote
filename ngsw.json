@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1769988110792,
+  "index": "/Bote/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Bote/chunk-7VH72SUZ.js",
+        "/Bote/chunk-FK6H3RFT.js",
+        "/Bote/chunk-FUHHUEZS.js",
+        "/Bote/chunk-SYDG7O52.js",
+        "/Bote/chunk-TSRGIXR5.js",
+        "/Bote/favicon.ico",
+        "/Bote/index.html",
+        "/Bote/main-WIEQU7RN.js",
+        "/Bote/manifest.webmanifest",
+        "/Bote/polyfills-6ISPNSXF.js",
+        "/Bote/styles-W5SNSDJY.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Bote/icons/icon-128x128.png",
+        "/Bote/icons/icon-144x144.png",
+        "/Bote/icons/icon-152x152.png",
+        "/Bote/icons/icon-192x192.png",
+        "/Bote/icons/icon-384x384.png",
+        "/Bote/icons/icon-512x512.png",
+        "/Bote/icons/icon-72x72.png",
+        "/Bote/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Bote/chunk-7VH72SUZ.js": "450f182a45854223319c90468c6d7c145ffbc080",
+    "/Bote/chunk-FK6H3RFT.js": "3c538698719f1cf34410542b8c702bc484e025ee",
+    "/Bote/chunk-FUHHUEZS.js": "320b7275de74e5ac4304ce381b6bc515484b9147",
+    "/Bote/chunk-SYDG7O52.js": "901613311b51d8f7192fbac8e4be5ad513bb2b55",
+    "/Bote/chunk-TSRGIXR5.js": "6bdaee675b02d564efa037f5fec4c087e47f921d",
+    "/Bote/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/Bote/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/Bote/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/Bote/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/Bote/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/Bote/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/Bote/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/Bote/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/Bote/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/Bote/index.html": "0c37e517abc5a2d5f67313fa770c046ad282ec13",
+    "/Bote/main-WIEQU7RN.js": "583044b0e8116e3093d138feb9b1a91f9784d131",
+    "/Bote/manifest.webmanifest": "6db87cf0922161ce4fe14d32e4a3b379ce34d6d5",
+    "/Bote/polyfills-6ISPNSXF.js": "b15ba4d1036f2db285649ff775f184bcdcd0b08a",
+    "/Bote/styles-W5SNSDJY.css": "fa03dbabc6eef2b94ff2884b68fe296ed78a2a97"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
