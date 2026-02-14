@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770840778027,
+  "timestamp": 1771100783069,
   "index": "/Bote/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/Bote/chunk-7VH72SUZ.js",
+        "/Bote/chunk-DKLAGT4O.js",
         "/Bote/chunk-FK6H3RFT.js",
-        "/Bote/chunk-FUHHUEZS.js",
-        "/Bote/chunk-SYDG7O52.js",
-        "/Bote/chunk-TSRGIXR5.js",
+        "/Bote/chunk-OTZNLHSE.js",
+        "/Bote/chunk-U6T25WG3.js",
+        "/Bote/chunk-UQ3VVHWI.js",
         "/Bote/favicon.ico",
         "/Bote/index.html",
-        "/Bote/main-UELBDQXX.js",
+        "/Bote/main-N3MCTXP2.js",
         "/Bote/manifest.webmanifest",
         "/Bote/polyfills-6ISPNSXF.js",
         "/Bote/styles-W5SNSDJY.css"
@@ -60,11 +60,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/Bote/chunk-7VH72SUZ.js": "450f182a45854223319c90468c6d7c145ffbc080",
+    "/Bote/chunk-DKLAGT4O.js": "9df37a8e70d27473cdfdf0820dd21ee1f5a5be29",
     "/Bote/chunk-FK6H3RFT.js": "3c538698719f1cf34410542b8c702bc484e025ee",
-    "/Bote/chunk-FUHHUEZS.js": "320b7275de74e5ac4304ce381b6bc515484b9147",
-    "/Bote/chunk-SYDG7O52.js": "901613311b51d8f7192fbac8e4be5ad513bb2b55",
-    "/Bote/chunk-TSRGIXR5.js": "6bdaee675b02d564efa037f5fec4c087e47f921d",
+    "/Bote/chunk-OTZNLHSE.js": "298120e5f08dd82edb317c6bd7aeabc6efd65c53",
+    "/Bote/chunk-U6T25WG3.js": "726ce8710ff29b96254018c24e67a9cfcc840649",
+    "/Bote/chunk-UQ3VVHWI.js": "4b27c20f3c18dfa789cdb3f6667df55208e87c8a",
     "/Bote/favicon.ico": "7f6cba82fc84bd96531e293f364604a14555234c",
     "/Bote/icons/icon-128x128.png": "8af8fd1a8a00d6b741ca1da748b1378f95156911",
     "/Bote/icons/icon-144x144.png": "ed18a131ab9a7cdbb08f88bc55fe23eebcf21769",
@@ -74,8 +74,8 @@
     "/Bote/icons/icon-512x512.png": "8cf389a622ebeda8615aa6020bf860b6326abfe5",
     "/Bote/icons/icon-72x72.png": "a78ad51fcc0e3560e7ac834bb0862aab4147fb53",
     "/Bote/icons/icon-96x96.png": "a19a3f50b54c0444f58c9288c74a554a48e3e1e9",
-    "/Bote/index.html": "132f8222bf999e0dcf6317d0fa5c68512ff00120",
-    "/Bote/main-UELBDQXX.js": "c970fb29a4552ea576a216522a81b9767567aa05",
+    "/Bote/index.html": "b286f44c6c83f8fb83be6e34965c3c717f746193",
+    "/Bote/main-N3MCTXP2.js": "cf14a13c1230beff8e3d8af4fa08950538ce686e",
     "/Bote/manifest.webmanifest": "6db87cf0922161ce4fe14d32e4a3b379ce34d6d5",
     "/Bote/polyfills-6ISPNSXF.js": "b15ba4d1036f2db285649ff775f184bcdcd0b08a",
     "/Bote/styles-W5SNSDJY.css": "fa03dbabc6eef2b94ff2884b68fe296ed78a2a97"
